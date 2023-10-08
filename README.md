@@ -1,1 +1,4 @@
 # Stock_market_analyzer
+Accurate stock market prediction is crucial for investors, and integrating price action, volume, support/resistance, news, and global market data can provide a holistic view for informed decision-making. This project aims to help investors make better choices, minimize risks, and potentially increase profits.
+The dataset will consist of historical stock price data, volume metrics, support and resistance levels, news sentiment scores, and global market indices. live and historical data will be used from - (https://finance.yahoo.com)
+Develop a machine learning model that predicts stock market trends (up, down, or sideways) based on the integration of price action, volume, support/resistance, news sentiment, and global market conditions. Provide actionable insights and recommendations to investors for optimizing their portfolios and risk management.
